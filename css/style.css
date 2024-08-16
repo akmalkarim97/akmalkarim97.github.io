@@ -313,8 +313,7 @@ h1, h2, h3, h4, h5,
   z-index: -1; }
 
 .particlehead {
-  position: absolute;
-  background-color: mediumturquoise; }
+  position: absolute; }
 
 /* Navbar */
 .site-navbar {
